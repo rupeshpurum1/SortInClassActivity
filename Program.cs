@@ -1,4 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿/*
+   Author: Rupesh Purum
+   Date: 2024/02/28
+   Comments: This C# Console Application code demonstrates the
+             Selection Sort Algorithm. No input
+             is required for the script. It will execute without 
+             input against one pre-populated array. 
+*/
+
 using System;
 
 namespace sort
